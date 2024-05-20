@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    margin: 20px;
+}
+
+app-main {
+    flex: 3;
+    padding-right: 10px;
+}
+
+app-aside {
+    flex: 1;
+}
